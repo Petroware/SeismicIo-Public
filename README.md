@@ -3,7 +3,7 @@ Seismic I/O is a library for accessing seismic files
 
 <img hspace="100" src="https://petroware.no/images/SeismicIoBox.250.png">
 
-Seismic I/O web page: https://petroware.no/seismicio.html
+Seismic I/O web page: https://petroware.no/html/seismicio.html
 
 ## Setup
 
@@ -14,7 +14,7 @@ $ git clone https://github.com/Petroware/SeismicIo.git
 ```
 
 ## API Documentation
-Java: https://petroware.no/seismicio/javadoc/index.html
+Java: https://petroware.no/products/seismicio/javadoc/index.html
 
 ## About Petroware
 
